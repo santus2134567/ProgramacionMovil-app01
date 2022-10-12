@@ -1,6 +1,6 @@
 {
-    "name": "app3",
-    "short_name": "app3",
+    "name": "app01",
+    "short_name": "app01",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
